@@ -1,0 +1,22 @@
+{
+  "name": "christopherstumph.me",
+  "version": "0.0.1",
+  "description": "Klaatu Berada Nikto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cstumph/christopherstumph.me"
+  },
+  "author": "cstumph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstumph/christopherstumph.me/issues"
+  },
+  "homepage": "https://github.com/cstumph/christopherstumph.me",
+  "dependencies": {
+    "hapi": "^8.1.0"
+  }
+}
